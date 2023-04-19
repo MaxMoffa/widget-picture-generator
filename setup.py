@@ -12,7 +12,7 @@ setuptools.setup(
     description="This library can be used to generate high-quality images of any type of widget, such as charts, maps, and leaderboards",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/Sense-Square/widget-picture-generator",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
