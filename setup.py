@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="widget-picture-generator",
-    version="0.0.1",
+    version="0.0.6",
     author="Massimo Moffa",
     author_email="massimo.moffa@sensesquare.eu",
     description="This library can be used to generate high-quality images of any type of widget, such as charts, maps, and leaderboards",
